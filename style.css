@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(#80d5e8,#aff097,#e6e87b,#c45858,#cf7ceb);
+    margin:0;    
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    background-repeat: no-repeat;
+}
+h1{
+    text-shadow:2px 2px #2c2e2d;
+    font-size: 20px;
+}
+#hobbydescription{
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+#img1{
+    height: 500px;
+    width: 500px;
+}
